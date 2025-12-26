@@ -1,0 +1,21 @@
+# Files to ignore when deploying to Render
+node_modules/
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+.git/
+.gitignore
+README.md
+SETUP.md
+MONGODB_FIX.md
+FIX_AUTH.md
+QUICK_FIX.md
+DEPLOY_RENDER.md
+BACKEND_SUMMARY.md
+test-api.sh
+*.md
+!package.json
+!package-lock.json
+
